@@ -1,0 +1,35 @@
+BODY {
+	MARGIN-TOP: 10px; FONT-SIZE: 11px; BACKGROUND-ATTACHMENT: scroll; MARGIN-LEFT: 10px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: purple
+}
+TD {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+P {
+	BACKGROUND: purple
+	FONT-SIZE: 12px; COLOR: Gold; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+H1 {
+	FONT-SIZE: 12px; COLOR: Gold; FONT-FAMILY: Helvetica, Verdana, Arial
+}
+A:hover {
+	COLOR: white; BACKGROUND-COLOR: red
+}
+H2 {
+	FONT-SIZE: 10px; COLOR: Gold; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+H3 {
+	FONT-SIZE: 18px; COLOR: Gold; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.textsm {
+	FONT-SIZE: 14px; COLOR: Gold; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.textbg {
+	FONT-SIZE: 24px; COLOR: Gold; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.textreg {
+	FONT-SIZE: 12px; COLOR: Gold; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.framethumbnail {
+	FONT-SIZE: 12px; COLOR: Gold; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+
